@@ -4,6 +4,6 @@
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
   <a href="https://github.com/${lelo52}">
-    (https://github-readme-stats.vercel.app/api/top-langs/?username=alfredsty&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=${lelo52}&layout=compact&show_icons=${ture}&theme=${테마}&hide=${c++}" />
   </a>
 </p>
